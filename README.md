@@ -1,2 +1,2 @@
 # ohwrite
-Oh! Write is an online blogging website which allows its users to share their ideas with the world using their words. It covers a wide range of topics such as: Entertainment, Sports, Technology, Entrepreneurship, Science, Computer etc. 
+Oh Write! is an online blogging website which allows its users to share their ideas with the world using their words. It covers a wide range of topics such as: Entertainment, Sports, Technology, Entrepreneurship, Science, Computer etc. 
